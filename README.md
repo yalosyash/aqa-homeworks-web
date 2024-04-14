@@ -1,5 +1,6 @@
 [![Java CI with Gradle](https://github.com/yalosyash/aqa-homeworks-web/actions/workflows/gradle.yml/badge.svg)](https://github.com/yalosyash/aqa-homeworks-web/actions/workflows/gradle.yml)
 [![Build status](https://ci.appveyor.com/api/projects/status/mywyafitjvhd441l?svg=true)](https://ci.appveyor.com/project/yalosyash/aqa-homeworks-web)
+
 # Домашнее задание к занятию «2.1. Тестирование веб-интерфейсов»
 
 В качестве результата пришлите ссылку на ваш GitHub-проект в личном кабинете студента на
